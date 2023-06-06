@@ -1,7 +1,7 @@
 baseURL = 'https://luvbum.github.io/writingstuff/'
 languageCode = 'en-us'
 title = 'Writingstuff'
-theme="contrast-hugo"
+theme = "contrast-hugo"
 
 author = "Patrik Lövbom"
 
